@@ -75,4 +75,4 @@ function gotResults(error, results){
             document.getElementById("quote").innerHTML = "Same To You Bye Bye";
         }
     }
-}
+}}
