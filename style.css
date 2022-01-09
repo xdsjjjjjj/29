@@ -1,7 +1,7 @@
 body
 {
   color: white;
-  background: #b34bad;
+  background: rgb(128, 54, 99);
 }
 span
 {
@@ -17,7 +17,7 @@ span
 {
   color: black;
 }
-.emotion_name
+.gesture_name
 {
   font-size: 40px;
 }
@@ -31,8 +31,9 @@ span
   letter-spacing: 10px;
 }
 label{
-  font-size: 14px;color: green;
-  background-color: white;
+  font-size: 14px;
+  color: #62b33a;
   padding: 6px;
   border-radius: 10px;
+  background-color: white;
 }
